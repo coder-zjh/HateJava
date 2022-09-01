@@ -1,1 +1,1 @@
-# HateJava
+# PraiseJava
